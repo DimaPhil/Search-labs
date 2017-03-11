@@ -46,8 +46,8 @@
       <file leaf-file-name="broder_shingles.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/broder_shingles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-769">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#137#147#0" expanded="true" />
               </folding>
@@ -558,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/broder_shingles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-769">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#137#147#0" expanded="true" />
           </folding>

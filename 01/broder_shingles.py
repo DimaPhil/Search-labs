@@ -9,7 +9,7 @@ import sys
 import re
 import mmh3
 from docreader import DocumentStreamReader
-from itertools import combinations, chain, ifilter, imap, izip
+from itertools import combinations, ifilter, imap, izip
 from collections import defaultdict
 
 
